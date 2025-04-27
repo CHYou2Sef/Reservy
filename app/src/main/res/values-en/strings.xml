@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Reservy</string>
+    <string name="search_shows">Search Shows</string>
+    <string name="welcome_message">Welcome to Reservy</string>
+    <string name="voirPlus" >voir plus</string>
+    <string name="title_home">Home</string>
+    <string name="title_cart">Cart</string>
+    <string name="title_reservations">Reservations</string>
+    <string name="title_profile">Profile</string>
+    <string name="nav_settings">Settings</string>
+    <string name="sort_date">Date</string>
+    <string name="sort_capacity">Capacity</string>
+    <string name="sort_price">Min Price</string>
+    <string name="button_pay">Pay</string>
+    <string name="mode_dark">Dark mode</string>
+    <string name="dark_enabled">Dark mode enabled</string>
+    <string name="dark_disabled">Dark mode disabled</string>
+    <string name="select_language">Select language</string>
+    <string name="supprimer">Delete</string>
+    <string name="book_now">Book Now</string>
+
+
+</resources>

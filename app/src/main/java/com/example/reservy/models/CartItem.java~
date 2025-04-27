@@ -1,0 +1,4 @@
+package com.example.reservy.models;
+
+public class CartItem {
+}
